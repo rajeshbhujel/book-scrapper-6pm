@@ -21,7 +21,7 @@ import sqlite3
 # 2. git commit -m "Your message"
 # 3. git push origin
 
-no_of_pages= 50
+NO_OF_PAGES= 50
 
 page = 1
 URL = f"https://books.toscrape.com/catalogue/page-{page}.html"
