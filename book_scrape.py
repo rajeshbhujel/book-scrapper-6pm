@@ -2,10 +2,24 @@ import requests
 from bs4 import BeautifulSoup
 import sqlite3
 
+# install git
+# create repository in github
 
+# go to git bash
 # git config --global usser.name "Rajesh Bhujel"
 # git config --global user.email "rajeshbhujel1994@gmail.com"
-# This is git tutorial
+
+# git init
+# git status => if you want to check what are the status of files
+# git diff => if you want to check what are the changes
+# git add .
+# git commit -m "Your message"
+# copy paste git code from github
+
+########### after code change ###########
+# 1. git add .
+# 2. git commit -m "Your message"
+# 3. git push origin
 
 no_of_pages= 50
 
